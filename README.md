@@ -107,18 +107,6 @@ Currently expanding into **data science**, **cybersecurity**, **networking**, an
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=19e9&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=19e9&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to collaboration on meaningful projects — reach out anytime.*
