@@ -1,145 +1,107 @@
-<h1 align="center">Hi, I'm Khalid👋</h1>
+<h1 align="center">Khalid Tariq</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Mobile App Developer
+  Full-Stack Developer | Mobile App Developer | Data Science Student
 </h3>
 
 <p align="center">
-  I build modern web and mobile applications with a focus on clean architecture, scalable back-end systems, responsive user interfaces, and practical real-world solutions.
+  Building scalable web applications, mobile apps, APIs, and practical software solutions with a focus on clean architecture, performance, and user experience.
+</p>
+
+<p align="center">
+  <a href="mailto:khalid.tariqx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khalid.tariqx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/khalid-tariq/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khalid%20Tariq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/19e9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-19e9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a software developer with experience in full-stack web development, mobile application development, database design, and system integration.
+I am a software developer focused on building modern, reliable, and scalable applications across web and mobile platforms.
 
-My work focuses on building practical applications using modern technologies such as React.js, React Native, Node.js, Express.js, MongoDB, MySQL, Firebase, and other development tools.
+My experience includes front-end development, back-end API development, mobile application development, database design, authentication systems, admin dashboards, and real-world software solutions.
 
-I am also interested in data science, cybersecurity, networking, and AI-powered applications.
+I care about writing clean code, designing maintainable systems, and building applications that solve practical problems — not just interfaces that look good.
+
+Currently, I am expanding my skills in data science, cybersecurity, networking, and AI-powered software systems.
 
 ---
 
-## Tech Stack
+## 🚀 What I Do
 
-### Programming Languages
+- Build full-stack web applications
+- Develop mobile apps using React Native, Expo, and Flutter
+- Design REST APIs and authentication systems
+- Create admin dashboards and SaaS-style platforms
+- Work with SQL and NoSQL databases
+- Build AI-powered tools and automation workflows
+- Design offline-first and knowledge-base applications
+- Improve application structure, performance, and scalability
+
+---
+
+## 🧠 Current Focus
+
+- Advanced full-stack architecture
+- Production-ready mobile applications
+- API security and authentication
+- Database performance and scalability
+- AI integration in real-world applications
+- Cybersecurity fundamentals and networking concepts
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,dart" alt="Programming Languages" />
 </p>
 
-### Front-End Development
+### Front-End
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
 ### Mobile Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React Native" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="Mobile Development" />
 </p>
 
-### Back-End Development
+### Back-End
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel" alt="Backend Technologies" />
 </p>
 
 ### Databases & Cloud
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases and Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" />
 </p>
 
----
-
-## What I Build
-
-- Full-stack web applications
-- Mobile applications using React Native and Expo
-- REST APIs and authentication systems
-- Admin dashboards and SaaS platforms
-- Database-driven applications
-- AI-powered tools and automation systems
-- Technical troubleshooting and knowledge-base applications
-
----
-
-## Current Focus
-
-- Improving full-stack application architecture
-- Building production-ready mobile apps
-- Working with AI APIs and automation tools
-- Strengthening back-end performance and database design
-- Expanding knowledge in cybersecurity and networking
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=19e9&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19e9&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="160" alt="Top Languages" />
-
-</div>
-
----
-
-## Connect With Me
+### Tools & Platforms
 
 <p align="left">
-  <a href="mailto:khalid.tariqx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/khalid-tariq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" alt="Tools and Platforms" />
 </p>
 
 ---
 
-## Profile Views
+## 📌 Areas of Interest
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=19e9&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+```txt
+Full-Stack Development     Mobile Applications       REST API Development
+Database Design            Authentication Systems    AI-Powered Tools
+Cybersecurity              Networking                Data Science
