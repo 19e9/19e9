@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Khalid Tariq 👋</h1>
+<h1 align="center">Hi, I'm Khalid👋</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Mobile App Developer | Data Science Student
+  Full-Stack Developer | Mobile App Developer
 </h3>
 
 <p align="center">
