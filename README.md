@@ -1,4 +1,4 @@
-<h1 align="center">Khalid Tariq</h1>
+<h1 align="center">Khalid</h1>
 
 <h3 align="center">
   Full-Stack Developer | Mobile App Developer | Data Science Student
