@@ -9,12 +9,12 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝
 ```
 
-### Full-Stack Developer · Mobile · API · Systems
+### Full-Stack Developer
 
 *Building scalable applications with clean architecture, performance, and real-world impact.*
 
-[![Email](https://img.shields.io/badge/khalid.tariqx%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khalid.tariqx@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Khalid%20Tariq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-tariq/)
+[![Email](https://img.shields.io/badge/khalid.tariqx%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Khaledtg17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Khalid%20Tariq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-tariq)
 [![GitHub](https://img.shields.io/badge/19e9-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/19e9)
 
 </div>
