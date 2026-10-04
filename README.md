@@ -111,6 +111,6 @@ Currently expanding into **data science**, **cybersecurity**, **networking**, an
 
 *Open to collaboration on meaningful projects — reach out anytime.*
 
-[![Email](https://img.shields.io/badge/Get%20in%20Touch-Khaledtg17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalid.tariqx@gmail.com)
+[![Email](https://img.shields.io/badge/Get%20in%20Touch-Khalid.tariiq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalid.tariiq@gmail.com)
 
 </div>
